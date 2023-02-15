@@ -3,6 +3,15 @@
 
 # Bounty Title
 
+| Title      | [Bounty Title]  |
+| ----------- | ----------- |
+| Short description   | [Insert a brief description of the problem you're trying to solve.]        |
+| Total number of bounties      | 0       |
+| Payment   | FIAT ~TOKEN~        |
+| Amount   | 1000        |
+| Deadline   | DD/MM/YYYY        |
+
+
 ## Type of bounty
 - [ ] Bug bounty
 - [ ] Web3 developer bounty for smart contracts
